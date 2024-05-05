@@ -1,0 +1,6 @@
+version: "0.0.1"
+description: ESP utility functions for ESP-IDF
+url: https://github.com/flyinggorilla/esputil.git
+dependencies:
+  idf:
+    version: ">=5.2.0"
